@@ -1,3 +1,8 @@
 Something here E
 another cha
 text2.txt
+
+
+New changes in feature-b
+
+New changed D
